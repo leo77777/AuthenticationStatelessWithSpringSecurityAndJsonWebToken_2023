@@ -1,0 +1,2 @@
+# AuthenticationStatelessWithSpringSecurityAndJsonWebToken_2023_2023
+Small WebService using Authentication Stateless With SpringSecurity And JsonWebToken

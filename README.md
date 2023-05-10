@@ -1,4 +1,4 @@
-# AuthenticationStatelessWithSpringSecurityAndJsonWebToken
+# Authentication Stateless With SpringSecurity And Json Web Token (JWT)
 Small WebService using Authentication Stateless With SpringSecurity And Json Web Token (JWT)
 
 
